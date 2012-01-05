@@ -1,4 +1,13 @@
 This is a repository where I store my simple Javascript / Node.js helper files with the world
 Hopefully somebody finds them useful.
 
+- Json_Generator: This is a file I used for creating JSON checkins in a random manner
+The default json stucture is established and a geolocation file is read in.
+This file might be useful for someone looking to parse a CSV of Geolocation data
+or indeed create a 3x array of characters from the alphabet.
+
+- BDD: A work in progress to develop a story inspired BDD framework within 
+Node.js. A story has multiple scenarios, each containing a statement that contains the keywords Given, When, Then, with optional Ands for chaining.
+
+
 Leigh.
