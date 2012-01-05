@@ -9,5 +9,7 @@ or indeed create a 3x array of characters from the alphabet.
 - BDD: A work in progress to develop a story inspired BDD framework within 
 Node.js. A story has multiple scenarios, each containing a statement that contains the keywords Given, When, Then, with optional Ands for chaining.
 
+- Group Component: A Javascript based Group Component to bind to an XMPP server. Capable
+of responding to messages directed at the group with limited commands.
 
 Leigh.
